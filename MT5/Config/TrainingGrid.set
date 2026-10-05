@@ -1,0 +1,14 @@
+ExecutionMode=0
+HigherTimeframe=16385
+EntryTimeframe=5
+RiskMode=2
+UseFixedLot=false
+RiskPercentage=0.25
+RiskRewardRatio=3.0||2.0||0.5||4.0||Y
+FractalPeriod=5||3||2||9||Y
+EnableBreakeven=false
+EnablePartialTakeProfit=false
+EnableTrailingStop=false
+EnableNewsFilter=false
+ExportResearchData=true
+RunId=training
