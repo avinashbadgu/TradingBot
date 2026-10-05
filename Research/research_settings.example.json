@@ -1,0 +1,8 @@
+{
+  "start": "2020-01-01", "end": "2026-01-01",
+  "training_months": 12, "forward_months": 3,
+  "symbols": {"EURUSD":"EURUSD", "GBPUSD":"GBPUSD", "USDJPY":"USDJPY", "USDCHF":"USDCHF", "USDCAD":"USDCAD", "AUDUSD":"AUDUSD", "NZDUSD":"NZDUSD", "XAUUSD":"XAUUSD"},
+  "grid": {"RiskRewardRatio":[2.0,2.5,3.0,3.5,4.0], "FractalPeriod":[3,5,7,9]},
+  "fixed_inputs": {"HigherTimeframe":16385, "EntryTimeframe":5, "RiskMode":2, "UseFixedLot":false, "RiskPercentage":0.25, "EnableBreakeven":false, "EnablePartialTakeProfit":false, "EnableTrailingStop":false, "EnableNewsFilter":false},
+  "baseline_evidence": {"compilation_passed":false,"behavior_verified":false,"real_tick_coverage_verified":false,"costs_verified":false,"compiler_log":"../compile.log","tester_report":"","signal_review":""}
+}
